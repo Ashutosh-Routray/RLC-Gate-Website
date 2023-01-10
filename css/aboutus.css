@@ -1,0 +1,60 @@
+.aboutus{
+    width: 100vw;
+    background-color: white;
+    padding: 0px;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.aboutus-img{
+    padding:40px;
+    padding-top: 80px;
+}
+
+.sir-info{
+    color: black;
+    font-family: poppins;
+    width: 90%;
+    font-size: 20px;
+}
+
+.aboutus-info{
+    justify-content: center;
+    align-items: center;
+}
+
+.RLC-contact{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    color: white;
+    background-color: rgb(0, 162, 255);
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.contact{
+    width: 100vw;
+    background-color: white;
+    padding: 0px;
+    padding-bottom: 20px;
+}
+
+.contactus{
+    display: flex;
+    justify-content: center;
+}
+
+.contact-info{
+    padding-left: 2rem;
+}
+
+.address,.contact-number,.mails{
+    font-family: 'Poppins';
+    font-weight: 300;
+}
+
+.lilbold{
+    font-weight: 800;
+}

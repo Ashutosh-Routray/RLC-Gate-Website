@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+
+.pride{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+    color: rgb(0, 140, 255);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+
+.main-testimonials{
+    background-color: white;
+    width: 100%;
+}
+
+.main-test{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+.main-test-left{
+    background-color: white;
+    /* height: 75vh; */
+    width: 37.5vw;
+    padding: 15px;
+}
+
+.main-test-right{
+    /* height: 75vh; */
+    width: 37.5vw;
+    padding: 15px;
+}
+
+.main-test-right-top{
+    /* height: 40vh; */
+    width: 37.5vw;
+}
+
+.main-test-right-bottom{
+    /* height: 40vh; */
+    width: 37.5vw;
+}
+
+.main-test-info{
+    font-family: poppins;
+    font-weight: 500;
+}
+
+.main-test-person{
+    font-family: poppins;
+    color: rgb(0, 140, 255);
+}
+
+.read-more{
+    width: 80vw;
+    font-family: poppins;
+    display: flex;
+    justify-content: end;
+}
+
+.read-more a{
+    font-size: 12px;
+    text-decoration: none;
+    color:rgb(70, 70, 255);
+}
+
+.group-test{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}

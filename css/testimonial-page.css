@@ -1,0 +1,24 @@
+.testarea{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.testimonial{
+    background-color: white;
+    width: 80%;
+    border-radius: 20px;
+}
+
+.testimonial::after {
+    content: '';
+    display: block;
+    background: url(../images/arrow.png) no-repeat;
+    position: absolute;
+    /* bottom: -11px; */
+    left: 15rem;
+    width: 25px;
+    height: 20px;
+}
