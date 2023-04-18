@@ -23,8 +23,8 @@
   border: none;
   background-color: transparent;
   /* font-family: Poppins; */
-  /* font-family: 'Lithos Pro Light', sans-serif; */
-  font-family: lithos-pro, sans-serif;
+  font-family: 'Lithos Pro Light';
+  /* font-family: 'lithos-pro'; */
 
   font-size: 13px;
   font-weight: bolder;
