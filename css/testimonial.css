@@ -4,55 +4,102 @@
 .pride{
     font-family: 'Oswald', sans-serif;
     font-weight: bolder;
-    color: rgb(0, 140, 255);
+    /* color: rgb(0, 140, 255);
+     */
+     color: rgb(26, 26, 209);
     font-size: 40px;
     display: flex;
     justify-content: center;
-    padding-top: 10px;
+    /* padding-top: 10px; */
     padding-bottom: 0px;
+    background-color: rgba(255, 255, 255, 0.575);
 }
 
+.prides{
+    font-family: 'Oswald', sans-serif;
+    font-weight: bolder;
+    /* color: rgb(0, 140, 255);
+     */
+     color: rgb(26, 26, 209);
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    /* padding-top: 10px; */
+    padding-bottom: 0px;
+    /* background-color: rgba(255, 255, 255, 0.575); */
+}
+
+
 .main-testimonials{
-    background-color: white;
+    background-color: rgb(179, 227, 255);
+    /* background-image: url("/images/back-grp-pic.png"); */
+    background-size: 100vw 120vh;
+    opacity: 1;
     width: 100%;
+}
+
+.main-testimonial{
+    background-color: rgb(179, 227, 255);
+    /* background-image: url("/images/back-grp-pic.png"); */
+    background-size: 100vw 120vh;
+    opacity: 1;
+    width: 100%;
+}
+
+
+.white-back{
+    background-color: white;
+    width: 100vw;
 }
 
 .main-test{
     display: flex;
     flex-wrap:wrap;
     justify-content: center;
+    padding-top: 10px;
 }
 
 .main-test-left{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.641);
     /* height: 75vh; */
     width: 37.5vw;
     padding: 15px;
+    border-radius: 10px;
+    margin-right: 5px;
 }
 
 .main-test-right{
     /* height: 75vh; */
-    width: 37.5vw;
-    padding: 15px;
+    /* width: 37.5vw; */
 }
 
 .main-test-right-top{
-    /* height: 40vh; */
+    background-color: rgba(255, 255, 255, 0.641);
+    /* height: 75vh; */
     width: 37.5vw;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 .main-test-right-bottom{
-    /* height: 40vh; */
+    background-color: rgba(255, 255, 255, 0.641);
+    /* height: 75vh; */
     width: 37.5vw;
+    padding: 15px;
+    border-radius: 10px;
 }
 
 .main-test-info{
     font-family: poppins;
     font-weight: 500;
+    font-size: large;
 }
 
 .main-test-person{
     font-family: poppins;
+    display: flex;
+    flex-direction: row;
     color: rgb(0, 140, 255);
 }
 
@@ -73,4 +120,17 @@
     width:100%;
     display: flex;
     justify-content: center;
+}
+
+.stud-info{
+    display:flex;
+    flex-direction: column;
+    padding-left: 1rem;
+}
+
+.stud-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 2rem;
 }

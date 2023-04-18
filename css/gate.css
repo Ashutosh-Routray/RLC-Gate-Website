@@ -1,0 +1,26 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+
+.main-gate{
+    /* background-color: white; */
+    background-color: rgb(179, 227, 255);
+    width: 100%;
+}
+
+.main-gate-info{
+    font-family: poppins;
+    padding-top: 1rem;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-bottom: 2rem;
+}
+
+.mdex{
+    border-radius: 5px;
+    /* outline: auto; */
+    padding: 20px;
+    font-family: Mukta;
+    font-size: 1.4rem;
+    background-color: rgb(247, 247, 247);
+    /* box-shadow: 5px 5px 5px grey inset; */
+  }

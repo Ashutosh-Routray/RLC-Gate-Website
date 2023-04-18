@@ -5,6 +5,7 @@
   height: 80px;
   display: flex;
   width: 100%;
+  padding-top: 0.32rem;
 }
 
 .logo {
@@ -21,8 +22,9 @@
 .navbar-items button {
   border: none;
   background-color: transparent;
-  font-family: Poppins;
-  font-size: 15px;
+  /* font-family: Poppins; */
+  font-family: 'Lithos Pro Light', sans-serif;
+  font-size: 13px;
   font-weight: bolder;
   padding: 10px;
   padding-left: 18px;

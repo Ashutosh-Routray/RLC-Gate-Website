@@ -1,6 +1,6 @@
 .aboutus{
     width: 100vw;
-    background-color: white;
+    background-color: rgb(179, 227, 255);
     padding: 0px;
     padding-bottom: 20px;
     display: flex;
@@ -13,7 +13,7 @@
 }
 
 .sir-info{
-    color: black;
+    /* color: white; */
     font-family: poppins;
     width: 90%;
     font-size: 20px;
@@ -57,4 +57,9 @@
 
 .lilbold{
     font-weight: 800;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
 }
