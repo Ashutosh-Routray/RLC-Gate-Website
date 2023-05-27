@@ -22,10 +22,7 @@
 .navbar-items button {
   border: none;
   background-color: transparent;
-  /* font-family: Poppins; */
   font-family: rlcfont;
-  /* font-family: 'lithos-pro'; */
-
   font-size: 13px;
   font-weight: bolder;
   padding: 10px;
