@@ -7,12 +7,12 @@
     /* color: rgb(0, 140, 255);
      */
      color: rgb(26, 26, 209);
-    font-size: 40px;
+    font-size: 50px;
     display: flex;
     justify-content: center;
     /* padding-top: 10px; */
     padding-bottom: 0px;
-    background-color: rgba(255, 255, 255, 0.575);
+    background-color: rgb(227, 242, 255);
 }
 
 .prides{
@@ -26,12 +26,13 @@
     justify-content: center;
     /* padding-top: 10px; */
     padding-bottom: 0px;
-    /* background-color: rgba(255, 255, 255, 0.575); */
+    
+    background-color: rgba(255, 255, 255, 0);
 }
 
 
 .main-testimonials{
-    background-color: rgb(179, 227, 255);
+    background-color: rgb(210, 238, 255);
     /* background-image: url("/images/back-grp-pic.png"); */
     background-size: 100vw 120vh;
     opacity: 1;

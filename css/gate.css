@@ -3,7 +3,7 @@
 
 .main-gate{
     /* background-color: white; */
-    background-color: rgb(179, 227, 255);
+    background-color: rgb(218, 234, 255);
     width: 100%;
 }
 
@@ -21,6 +21,6 @@
     padding: 20px;
     font-family: Mukta;
     font-size: 1.4rem;
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(249, 249, 249);
     /* box-shadow: 5px 5px 5px grey inset; */
   }
