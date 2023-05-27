@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: rlcfont;
-  src: url('/lithoslight.ttf');
+  src: url('/lithoslight.ttf') format('truetype');
 }
 
 * {
