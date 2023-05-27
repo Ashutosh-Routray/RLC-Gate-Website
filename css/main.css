@@ -5,10 +5,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap");
 /* @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap"); */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-@import url(//db.onlinewebfonts.com/c/45a4903d5b49058de8fe132bdd942f69?family=Lithos+Pro+Light);
+/* @import url(//db.onlinewebfonts.com/c/45a4903d5b49058de8fe132bdd942f69?family=Lithos+Pro+Light); */
 
 @font-face {
-  font-family: 'Lithos Pro Light';
+  font-family: rlcfont;
   src: url(/lithoslight.ttf);
 }
 
@@ -32,7 +32,7 @@
 
 .efe{
   color: white;
-  font-family: 'Lithos Pro Light', sans-serif;
+  font-family: rlcfont;
   font-weight:600;
 }
 
